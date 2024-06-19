@@ -47,7 +47,7 @@ Feel free to submit issues or pull requests for suggestions, improvements, or bu
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+"License? Nah, who needs those bothersome regulations anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
 
 ---
 
