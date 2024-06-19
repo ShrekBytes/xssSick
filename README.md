@@ -1,6 +1,6 @@
 # xssSick
 
-xssSick is a Python script that can identify potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a given file, modifies the parameters of each URL with a gibberish value, brackets & signs, and searches the response for reflections and matches. If any reflections and matches are found, the script saves the URLs to an output file.
+xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) vulnerabilities. It reads URLs from a file, modifies each URL's parameters with a gibberish value containing brackets and signs, and searches the response for reflections and matches. Found URLs are saved to an output file.
 
 ## Features
 
