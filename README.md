@@ -10,6 +10,7 @@ xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) 
 - Searches the response source code for specific words and signs that indicate XSS possibilities.
 - Saves the URLs where matches are found to an output file.
 - Displays output in the terminal: `blue` for processed URLs, `red` for unreachable URLs, and `green` for matches (XSS) found.
+- Experimental (must be enabled manually): Detects DOM XSS (uncomment `dom_possible` function definition and calls).
 
 ## Requirements
 
