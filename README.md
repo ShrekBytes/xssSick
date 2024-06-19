@@ -43,7 +43,7 @@ xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) 
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
+Feel free to submit issues or pull requests for suggestions, improvements, or bug reports. Your contributions are appreciated!
 
 ## License
 
