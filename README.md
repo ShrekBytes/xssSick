@@ -12,7 +12,7 @@ xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- 
+
 ## Features
 
 - Reads URLs from a file.
