@@ -33,7 +33,7 @@ xssSick is a Python script for identifying potential Cross-Site Scripting (XSS) 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/xssSick.git
+   git clone https://github.com/ShrekBytes/xssSick.git
    ```
 2. Navigate to the project directory:
    ```sh
